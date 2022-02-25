@@ -8,6 +8,6 @@ This project was meant to create a 7-class home appliance catalog program.
 - it must generate two class variables called class and subclass that represents the class of equipment (eg "small appliances" or “Large appliances”) and equipment subclass (ex “mixer”). They will be used to find all objects of a certain class / subclass in global object list.
 - allow all objects from a manufacturer to be displayed
 
-Programing language used: Python
+Programming language used: Python
 
 IDE used: IDLE

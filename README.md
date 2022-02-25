@@ -9,4 +9,5 @@ This project was meant to create a 7-class home appliance catalog program.
 - allow all objects from a manufacturer to be displayed
 
 Programing language used: Python
+
 IDE used: IDLE
